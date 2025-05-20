@@ -1,0 +1,15 @@
+Stlye.css 
+body { 
+  font-family: Arial, sans-serif; 
+  text-align: center; 
+  margin-top: 50px; 
+} 
+  
+h1 { 
+  color: blue; 
+} 
+  
+ 
+C)  
+function sayHello() { 
+  alert("Hello from JavaScript!");
